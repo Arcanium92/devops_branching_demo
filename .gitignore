@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+
+# C#
+bin/
+obj/
+.vs/
+
+# General
+.DS_Store
+Thumbs.db
+*.user
